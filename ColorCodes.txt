@@ -1,0 +1,9 @@
+---Nothing Color Codes ---
+
+Accent color : #07080a  
+Text color - primary- dark : #e6e4e5
+text color - secondary- dark : #23264e
+Button color - dark : #1c1d1f
+Battery Indicator green : #409e65
+
+
